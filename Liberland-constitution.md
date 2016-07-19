@@ -9,6 +9,7 @@
 The Free Republic of Liberland shall be governed by the Public Administration in accordance with the Constitution. It shall observe the rule of law and exercise only such legislative, executive and judicial powers which have been conferred upon it by this Part of the Constitution and not restricted under the Bill of Rights.
 
 ### Article I: Fundamental Principles
+TODO: add a second ammendment equivalent
 
 * **§I.1.** The Constitution of the Free Republic of Liberland shall be the supreme law of the Free Republic of Liberland and, as such, shall be directly enforceable before all Courts of the Free Republic of Liberland; all forms of law and all contracts between any legal and/or natural Persons, including all branches of the Public Administration, made under the jurisdiction of the Free Republic of Liberland, shall comply with the Constitution.
 * **§I.2.** The Free Republic of Liberland shall be governed by the Public Administration and no concurrent or otherwise form of government shall be established; no special branch of the Public Administration which is not provided for in the Constitution shall come into existence; no municipal or district governing body shall be established unless for a new territory upon its incorporation to the Free Republic of Liberland. 
